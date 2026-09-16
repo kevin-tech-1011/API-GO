@@ -1,0 +1,24 @@
+{
+    "compilerOptions": {
+        "target": "ES2022",
+        "lib": ["ES2023"],
+        "module": "commonjs",
+        "jsx": "react-jsx",
+        "skipLibCheck": true,
+        "resolveJsonModule": true,
+
+        /* Linting */
+        "strict": true,
+        "noUnusedLocals": true,
+        "noUnusedParameters": true,
+        "noFallthroughCasesInSwitch": true,
+        "noUncheckedSideEffectImports": true,
+        "noImplicitAny": false,
+
+        /* Build */
+        "rootDir": "./",
+        "outDir": "./dist",
+        "esModuleInterop": true
+    },
+    "include": ["**/*.ts", "**/*.tsx"]
+}

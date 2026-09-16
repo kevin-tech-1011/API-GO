@@ -1,0 +1,218 @@
+{
+  "title": "Senior Platform & Infrastructure Engineer",
+  "summary": "Accomplished **senior software engineer with 8+ years of expertise in building scalable, reliable platform systems and infrastructure**. Proven ability to accelerate development workflows and enable AI integration through innovative solutions on GCP, Kubernetes, and Terraform. Adept at transforming legacy systems into modern, developer-friendly environments aligned with AI-first approaches, driving impactful results for healthcare and enterprise applications.",
+  "skills": [
+    {
+      "category": "Cloud & Infrastructure",
+      "list": [
+        "Google Cloud Platform (GCP), GKE",
+        "Terraform",
+        "BigQuery",
+        "Cloud Pub/Sub",
+        "AlloyDB",
+        "Kubernetes",
+        "CI/CD pipelines",
+        "Observability & Monitoring (Datadog)"
+      ]
+    },
+    {
+      "category": "Programming & Automation",
+      "list": [
+        "Python",
+        "Go",
+        "Bash scripting",
+        "Terraform scripting",
+        "AI/ML integration",
+        "DevOps automation",
+        "Containerization",
+        "Infrastructure as Code (IaC)"
+      ]
+    },
+    {
+      "category": "Platform & Backend Development",
+      "list": [
+        "Microservices architecture",
+        "RESTful APIs",
+        "Service mesh",
+        "Sandbox environments",
+        "Authentication & authorization"
+      ]
+    },
+    {
+      "category": "AI & Data Handling",
+      "list": [
+        "AI-assisted workflows",
+        "Cursor, Claude Code (or similar AI coding tools)",
+        "Rich multi-modal data processing",
+        "Data structuring and access"
+      ]
+    },
+    {
+      "category": "Soft Skills & Methodologies",
+      "list": [
+        "Agile development",
+        "Cross-functional collaboration",
+        "Product-oriented development",
+        "Scalable, robust solution design",
+        "Stakeholder communication"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Deloitte",
+      "position": "Senior Software Engineer",
+      "startDate": "Jan 2024",
+      "endDate": "Dec 2025",
+      "description": [
+        "Architected and deployed a **cloud-native platform** on **GCP (GKE, BigQuery, Pub/Sub)** enabling **scalable data ingestion and analytics** for enterprise clients, increasing processing speed by **35%** and reducing infrastructure costs by **20%** via **Terraform** automation.",
+        "Developed an **AI-enhanced CI/CD pipeline** integrating **AI coding tools**—such as Cursor—to streamline **code reviews and deployment workflows**, decreasing release cycle times by **40%** and improving developer satisfaction.",
+        "Implemented **sandboxed environments** for rapid testing of AI models with **GKE and Kubernetes**, ensuring 99.99% system uptime while enabling teams to iterate AI features faster with minimal risk.",
+        "Led migration of legacy systems to **cloud-first architecture**, improving system resilience and deploying monitoring solutions with **Datadog**, resulting in a **25% reduction** in outage response time.",
+        "Collaborated across teams to integrate **AI-driven data structuring** pipelines for clinical trial data, enhancing data accessibility and analysis speed for research teams.",
+        "Optimized developer experience by creating comprehensive platform documentation and self-service tooling, increasing platform adoption by **50%**."
+      ],
+      "skills": [
+        "GCP",
+        "GKE",
+        "Terraform",
+        "BigQuery",
+        "Pub/Sub",
+        "AI/ML workflows",
+        "Cloud monitoring",
+        "Python",
+        "Kubernetes"
+      ],
+      "summary": "Engineered **GCP-based infrastructure solutions** that doubled development efficiency and reduced operational costs, empowering teams to deliver AI-enabled clinical research tools."
+    },
+    {
+      "company": "Siemens Digital Industries Software",
+      "position": "Senior Software Engineer",
+      "startDate": "Nov 2020",
+      "endDate": "Dec 2023",
+      "description": [
+        "Designed and implemented **highly reliable platform services** supporting **multi-modal data processing** (including images and clinical notes) using **Kubernetes, Terraform, and AlloyDB**, improving data throughput by **25%**.",
+        "Built **internal developer tools** for CI/CD automation and environment provisioning, reducing onboarding time for new engineers by **30%** and enabling rapid AI model deployment.",
+        "Enhanced **observability and monitoring** with **Datadog**, leading to proactive issue resolution and a **20% decrease** in mean time to recovery (MTTR).",
+        "Integrated **AI-assisted code development workflows** by deploying tools like **Cursor**, facilitating faster iteration on platform features.",
+        "Led charting and scaling of **sandbox environments** for testing AI model integrations, increasing testing capacity by **50%** and reducing release bottlenecks.",
+        "Participated in cross-team planning to define **platform API standards**, promoting ease of use and improving developer productivity across engineering teams."
+      ],
+      "skills": [
+        "Kubernetes",
+        "Terraform",
+        "AlloyDB",
+        "GCP",
+        "Datadog",
+        "Python",
+        "AI integration",
+        "CI/CD automation"
+      ],
+      "summary": "Enhanced platform scalability and developer experience through automation and infrastructure modernization, accelerating AI feature rollout."
+    },
+    {
+      "company": "CenterLogic",
+      "position": "Senior Developer",
+      "startDate": "Apr 2018",
+      "endDate": "Oct 2020",
+      "description": [
+        "Architected and deployed scalable **cloud infrastructure** on **AWS and GCP** supporting core business applications, reducing system downtime by **15%**.",
+        "Led development of internal tools that automated data workflows, increasing team productivity by **40%** and streamlining clinical data processing.",
+        "Built and maintained **microservices** with **REST APIs**, ensuring 99.9% uptime and improving query response times by **30%**.",
+        "Streamlined **DevOps workflows** with **CI/CD pipelines** using Jenkins and Terraform, enabling rapid feature delivery and reducing deployment errors.",
+        "Initiated and led efforts for integrating **AI-driven data annotation** processes to enhance data accuracy and speed for research projects.",
+        "Developed **interactive dashboards** for clinical data analysis using **JavaScript** and **React**, increasing data visibility for research teams."
+      ],
+      "skills": [
+        "AWS",
+        "GCP",
+        "Terraform",
+        "Microservices",
+        "REST APIs",
+        "CI/CD",
+        "Data pipelines",
+        "AI data annotation"
+      ],
+      "summary": "Built resilient cloud infrastructure and automation workflows that improved system stability and developer agility, supporting scalable clinical data solutions."
+    },
+    {
+      "company": "CenterLogic",
+      "position": "Developer II",
+      "startDate": "Oct 2016",
+      "endDate": "Apr 2018",
+      "description": [
+        "Contributed to scalable **cloud-based clinical data pipelines** utilizing **Python** and **Terraform**, reducing data processing failures by **18%**.",
+        "Enhanced **automation scripts** for deployment and monitoring, decreasing manual intervention and error rates.",
+        "Supported development of **microservices architecture**, improving modularity and system maintainability.",
+        "Integrated **AI tools** for data structuring and annotation, increasing data throughput and accuracy.",
+        "Collaborated with data scientists to optimize **machine learning workflows** within the platform, accelerating model deployment.",
+        "Implemented sophisticated **logging and observability** practices, resulting in faster troubleshooting and system reliability."
+      ],
+      "skills": [
+        "Python",
+        "Terraform",
+        "Microservices",
+        "Data pipelines",
+        "AI workflows",
+        "Monitoring & Logging"
+      ],
+      "summary": "Contributed to foundational cloud infrastructure and automation that supported scalable and reliable clinical data platform components."
+    },
+    {
+      "company": "CenterLogic",
+      "position": "Developer I",
+      "startDate": "Jul 2015",
+      "endDate": "Sep 2016",
+      "description": [
+        "Supported core platform development by building **API integrations** and **cloud automation scripts** in **Python** and **Bash**, improving deployment efficiency.",
+        "Participated in designing **containerized** microservices with **Docker** and **Kubernetes**, enhancing application scalability.",
+        "Assisted in developing **data ingestion workflows** for clinical research datasets, increasing data processing throughput.",
+        "Contributed to documentation and internal tooling to improve developer onboarding and productivity.",
+        "Implemented basic **monitoring solutions** that improved system health visibility."
+      ],
+      "skills": [
+        "Python",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "APIs",
+        "Data ingestion"
+      ],
+      "summary": "Supported infrastructure automation and containerization efforts that contributed to a scalable clinical data platform foundation."
+    },
+    {
+      "company": "WSU Elson S. Floyd College of Medicine",
+      "position": "Web Developer",
+      "startDate": "Jan 2014",
+      "endDate": "Jul 2015",
+      "description": [
+        "Developed web applications for clinical data visualization and research support using **JavaScript** and **PHP**, improving data accessibility for medical research teams.",
+        "Built interactive dashboards and reporting tools that increased efficiency in data interpretation and presentation.",
+        "Collaborated with clinical researchers to enhance front-end interfaces, reducing user error and improving workflow efficiency.",
+        "Implemented secure authentication protocols in compliance with healthcare data standards.",
+        "Optimized website performance, leading to faster load times and better user experience."
+      ],
+      "skills": [
+        "JavaScript",
+        "PHP",
+        "HTML/CSS",
+        "Data visualization",
+        "Healthcare security standards"
+      ],
+      "summary": "Enhanced clinical data access and visualization tools to support research activities and improve user engagement."
+    }
+  ],
+  "education": [
+    {
+      "startDate": "Apr 2009",
+      "endDate": "Oct 2013",
+      "degree": "Bachelor's Degree",
+      "field": "Computer Science",
+      "school": "Washington State University"
+    }
+  ],
+  "additionalInfo": {
+    "Describe how you've improved developer experience on a past team": "At Siemens, I redesigned internal developer tooling and automated workflows using Terraform and CI/CD pipelines, reducing onboarding time by 30% and enabling rapid deployment of AI models. I also created comprehensive platform documentation and self-service tools, which increased platform adoption and developer efficiency. These improvements fostered a collaborative environment and accelerated feature delivery.",
+    "In your eyes, what is the most critical element of a successful picnic?": "A successful picnic hinges on seamless preparation and coordination—ensuring all components, from food and environment to team collaboration, work harmoniously to create a memorable and enjoyable experience that strengthens bonds and delivers joy."
+  }
+}
